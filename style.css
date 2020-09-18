@@ -1,0 +1,33 @@
+h1{ 
+	color: white; 
+	font-family: arial;  
+}
+
+h2 { color: white;
+ }
+
+ body{ 
+ 	font-family: arial; 
+ 	text-align: center;
+ 	background: #993F3C;
+ 	color: white;
+ }
+
+ul, h3{ text-align: left; 
+	color: white;
+}
+.avatar{border-radius: 50%;
+	box-shadow: 2px 2px 2px 2px;
+	color: #993F3C;
+}
+
+.sug{ width: 200px }
+
+.white-border{ border: solid 10px white;
+ }
+
+ .cadre{border: solid 10px white; 
+ 	margin: 50px;
+ 	padding: 10px;
+ 	background: pink;
+ }
